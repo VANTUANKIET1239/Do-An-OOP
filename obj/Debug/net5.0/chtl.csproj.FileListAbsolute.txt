@@ -1,0 +1,64 @@
+C:\Users\N5110\Desktop\chtl\bin\Debug\net5.0\chtl.exe
+C:\Users\N5110\Desktop\chtl\bin\Debug\net5.0\chtl.deps.json
+C:\Users\N5110\Desktop\chtl\bin\Debug\net5.0\chtl.runtimeconfig.json
+C:\Users\N5110\Desktop\chtl\bin\Debug\net5.0\chtl.runtimeconfig.dev.json
+C:\Users\N5110\Desktop\chtl\bin\Debug\net5.0\chtl.dll
+C:\Users\N5110\Desktop\chtl\bin\Debug\net5.0\ref\chtl.dll
+C:\Users\N5110\Desktop\chtl\bin\Debug\net5.0\chtl.pdb
+C:\Users\N5110\Desktop\chtl\obj\Debug\net5.0\chtl.csproj.AssemblyReference.cache
+C:\Users\N5110\Desktop\chtl\obj\Debug\net5.0\chtl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N5110\Desktop\chtl\obj\Debug\net5.0\chtl.AssemblyInfoInputs.cache
+C:\Users\N5110\Desktop\chtl\obj\Debug\net5.0\chtl.AssemblyInfo.cs
+C:\Users\N5110\Desktop\chtl\obj\Debug\net5.0\chtl.csproj.CoreCompileInputs.cache
+C:\Users\N5110\Desktop\chtl\obj\Debug\net5.0\chtl.dll
+C:\Users\N5110\Desktop\chtl\obj\Debug\net5.0\ref\chtl.dll
+C:\Users\N5110\Desktop\chtl\obj\Debug\net5.0\chtl.pdb
+C:\Users\N5110\Desktop\chtl\obj\Debug\net5.0\chtl.genruntimeconfig.cache
+C:\Users\hungs\Desktop\chtl\chtl\bin\Debug\net5.0\chtl.exe
+C:\Users\hungs\Desktop\chtl\chtl\bin\Debug\net5.0\chtl.deps.json
+C:\Users\hungs\Desktop\chtl\chtl\bin\Debug\net5.0\chtl.runtimeconfig.json
+C:\Users\hungs\Desktop\chtl\chtl\bin\Debug\net5.0\chtl.runtimeconfig.dev.json
+C:\Users\hungs\Desktop\chtl\chtl\bin\Debug\net5.0\chtl.dll
+C:\Users\hungs\Desktop\chtl\chtl\bin\Debug\net5.0\ref\chtl.dll
+C:\Users\hungs\Desktop\chtl\chtl\bin\Debug\net5.0\chtl.pdb
+C:\Users\hungs\Desktop\chtl\chtl\obj\Debug\net5.0\chtl.csproj.AssemblyReference.cache
+C:\Users\hungs\Desktop\chtl\chtl\obj\Debug\net5.0\chtl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungs\Desktop\chtl\chtl\obj\Debug\net5.0\chtl.AssemblyInfoInputs.cache
+C:\Users\hungs\Desktop\chtl\chtl\obj\Debug\net5.0\chtl.AssemblyInfo.cs
+C:\Users\hungs\Desktop\chtl\chtl\obj\Debug\net5.0\chtl.csproj.CoreCompileInputs.cache
+C:\Users\hungs\Desktop\chtl\chtl\obj\Debug\net5.0\chtl.dll
+C:\Users\hungs\Desktop\chtl\chtl\obj\Debug\net5.0\ref\chtl.dll
+C:\Users\hungs\Desktop\chtl\chtl\obj\Debug\net5.0\chtl.pdb
+C:\Users\hungs\Desktop\chtl\chtl\obj\Debug\net5.0\chtl.genruntimeconfig.cache
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\obj\Debug\net5.0\chtl.csproj.AssemblyReference.cache
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\obj\Debug\net5.0\chtl.GeneratedMSBuildEditorConfig.editorconfig
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\obj\Debug\net5.0\chtl.AssemblyInfoInputs.cache
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\obj\Debug\net5.0\chtl.AssemblyInfo.cs
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\obj\Debug\net5.0\chtl.csproj.CoreCompileInputs.cache
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\obj\Debug\net5.0\chtl.dll
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\obj\Debug\net5.0\ref\chtl.dll
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\obj\Debug\net5.0\chtl.pdb
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\bin\Debug\net5.0\chtl.exe
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\bin\Debug\net5.0\chtl.deps.json
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\bin\Debug\net5.0\chtl.runtimeconfig.json
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\bin\Debug\net5.0\chtl.runtimeconfig.dev.json
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\bin\Debug\net5.0\chtl.dll
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\bin\Debug\net5.0\ref\chtl.dll
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\bin\Debug\net5.0\chtl.pdb
+F:\Giáo trình vào Silde các môn\Giáo trình vào Silde các môn\Oop\chtl\obj\Debug\net5.0\chtl.genruntimeconfig.cache
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\bin\Debug\net5.0\chtl.exe
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\bin\Debug\net5.0\chtl.deps.json
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\bin\Debug\net5.0\chtl.runtimeconfig.json
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\bin\Debug\net5.0\chtl.runtimeconfig.dev.json
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\bin\Debug\net5.0\chtl.dll
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\bin\Debug\net5.0\ref\chtl.dll
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\bin\Debug\net5.0\chtl.pdb
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\obj\Debug\net5.0\chtl.csproj.AssemblyReference.cache
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\obj\Debug\net5.0\chtl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\obj\Debug\net5.0\chtl.AssemblyInfoInputs.cache
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\obj\Debug\net5.0\chtl.AssemblyInfo.cs
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\obj\Debug\net5.0\chtl.csproj.CoreCompileInputs.cache
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\obj\Debug\net5.0\chtl.dll
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\obj\Debug\net5.0\ref\chtl.dll
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\obj\Debug\net5.0\chtl.pdb
+C:\Users\hungs\Desktop\chtl2\chtl\chtl\obj\Debug\net5.0\chtl.genruntimeconfig.cache
